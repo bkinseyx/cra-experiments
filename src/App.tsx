@@ -3,7 +3,6 @@ import logo from './logo.svg';
 import { Counter } from './features/counter/Counter';
 import './App.css';
 
-// eslint-disable-next-line max-lines-per-function
 function App(): JSX.Element {
   return (
     <div className="App">
