@@ -1,7 +1,7 @@
 import React from 'react';
-import logo from './logo.svg';
-import { Counter } from './features/counter/Counter';
-import './App.css';
+import logo from 'logo.svg';
+import { Counter } from 'features/counter/Counter';
+import 'App.css';
 
 // eslint-disable-next-line max-lines-per-function
 const App: React.FC = () => (
